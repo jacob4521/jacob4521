@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/417f7133-6eb3-4203-8193-362945974acc" /><div align="center">
   <h1>Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="32px" width="32px"> I'm Zakib Hussain</h1>
   <h3>Software Engineering Student</h3>
 
@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats & Trophies
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jacob4521&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jacob4521's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacob4521&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacob4521&langs_count=8&layout=compact&theme=radical&border_radius=10&hide=php" alt="Top Languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=jacob4521&theme=radical&hide_border=true&cache_seconds=86400" alt="jacob4521's GitHub Streak" />
   <br />
