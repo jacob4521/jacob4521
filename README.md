@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats & Trophies
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jacob4521&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jacob4521's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacob4521&langs_count=8&layout=compact&theme=radical&border_radius=10&hide=php" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacob4521&langs_count=8&layout=compact&theme=radical&border_radius=10&hide=php&v=2" alt="Top Languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=jacob4521&theme=radical&hide_border=true&cache_seconds=86400" alt="jacob4521's GitHub Streak" />
   <br />
